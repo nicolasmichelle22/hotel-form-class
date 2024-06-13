@@ -13,7 +13,10 @@
 //     document.getElementById("root")
 // )
 
+<h1></h1>
+
 const navbar = (
+    
     <nav>
         <h1>Simon's Bistro</h1>
         <ul>
