@@ -13,26 +13,26 @@
 //     document.getElementById("root")
 // )
 
-// const navbar = (
-//     <nav>
-//         <h1>Simon's Bistro</h1>
-//         <ul>
-//             <li>Menu</li>
-//             <li>About</li>
-//             <li>Contact</li>
-//         </ul>
-//     </nav>
-// )
+const navbar = (
+    <nav>
+        <h1>Simon's Bistro</h1>
+        <ul>
+            <li>Menu</li>
+            <li>About</li>
+            <li>Contact</li>
+        </ul>
+    </nav>
+)
 
-// ReactDOM.render(navbar, document.getElementById("root"))
+ReactDOM.render(navbar, document.getElementById("root"))
 
 
 //how to add image
 
-const page = (
-    <div>
-        <img src="./react-logo.png"/>
-    </div>
-)
+// const page = (
+//     <div>
+//         <img src="./img/logo.react.png"/>
+//     </div>
+// )
 
-ReactDOM.render(page, document.getElementById(root))
+// ReactDOM.render(page, document.getElementById(root))
